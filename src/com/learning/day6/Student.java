@@ -15,7 +15,7 @@ public class Student {
     }
     public static void main(String[] args) {
         Student student = new Student("John", 20);
-        System.out.println("Name: " + student.name);
+        System.out.println("Name: " + student.name);      
         System.out.println("Age: " + student.age);
     }
 
