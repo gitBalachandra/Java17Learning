@@ -23,6 +23,7 @@ public class Demo {
     public static void main(String[] args) {
         Human human = new Human("Alice", 30);
         Human human1 = new Human("azs", 23);
+        Human human2 = new Human("hhh", 44);
         System.out.println("Name: " + human.getName());
         System.out.println("Age: " + human.getAge());
     }
